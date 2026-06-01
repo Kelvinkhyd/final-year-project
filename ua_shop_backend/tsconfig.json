@@ -9,7 +9,7 @@
     "strict": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["node"]
-  },
-  "include": ["src/**/*"]
+    "types": ["node"],
+    "ignoreDeprecations": "6.0"
+  }
 }
